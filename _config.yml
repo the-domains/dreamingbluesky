@@ -1,7 +1,7 @@
 name: dreamingbluesky
 favicon: null
-layout_spectrum: 0.9471539664082229
-typography_spectrum: 0.4271248341538012
+layout_spectrum: 1
+typography_spectrum: 0.43796
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#a1978e'
+    - '#1d2731'
+    - '#4c5223'
+    - '#bc6819'
+    - '#d4e1e7'
   brandStrength: 0.10137311834841967
   lightness: 0.3459486663341522
   saturation: 0.5226588554214686
