@@ -1,6 +1,6 @@
 name: dreamingbluesky
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.50426
 typography_spectrum: 0.43796
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#4c5223'
     - '#bc6819'
     - '#d4e1e7'
-  brandStrength: 0.10137311834841967
+  brandStrength: 0.3125
   lightness: 0.3459486663341522
   saturation: 0.5226588554214686
   rhythmicContrast: 0.3710581650957465
